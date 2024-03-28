@@ -20,8 +20,8 @@
 <h2>📄 Certefications</h2>
 
 - <b>Google Cybersecurity Professional Certeficate</b>
-  - [Foundations of Cybersecurity]([https://github.com/joshmadakor1/Sentinel-Lab](https://coursera.org/share/67ffd97203de102adb05e69a6621b474))
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Foundations of Cybersecurity](https://coursera.org/share/67ffd97203de102adb05e69a6621b474)
+  - [Automate Cybersecurity Tasks with Python](https://coursera.org/share/396c0d0828b9abf8fdfb071b3a84cdcc)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
