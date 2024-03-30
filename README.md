@@ -1,4 +1,4 @@
-<h1>Hi, I'm Befikadu! <br/><a href="(https://github.com/Befikadu-Tesfaye)">Cybersecurity Analyst</a>, <a herf=(https://www.linkedin.com/in/befikadu-tesfaye)">Electrical and Comuter Engineering Student</a>,</h1>
+<h1>Hi, I'm Befikadu! <br/><a href="(https://github.com/Befikadu-Tesfaye)">Cybersecurity Analyst</a>, <a herf=(https://www.linkedin.com/in/befikadu-tesfaye)">Electrical and Comuter Engineering Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
