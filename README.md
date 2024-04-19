@@ -4,7 +4,7 @@
 
 - <b>Projects Undertacken as Part of Google Cybersecurity Professional Certeficate</b>
   - [Conduct a Security Audit]()
-  - [Use the NIST Cybersecurity Framwork to Respond to a Security Incident)]()
+  - [Use the NIST Cybersecurity Framwork to Respond to a Security Incident]()
   - [Document an Incident With an Incident Handler's Journal]()
   - [Update a File through a Python Algorthim]()
 
