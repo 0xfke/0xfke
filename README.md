@@ -1,4 +1,4 @@
-# Hi there, I'm Matt! 👋
+# Hi there, I'm Befikadu! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/fike-sh?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/fike-sh?label=Stars&style=social)
 
@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate **full-stack developer** specializing in **Laravel, React, Vue, Flutter, and Node.js**. I love crafting beautiful, efficient, and scalable web applications. You can find me indulging in playing games when I'm not coding.
-
+I'm a passionate **Penetration Tester** specializing in **Laravel, React, Vue, Flutter, and Node.js**. I love crafting beautiful, efficient, and scalable web applications. You can find me indulging in playing games when I'm not coding.
+**Penetration Tester**, electrical and computer engineer, content creator, and innovator.
 🌍 Based in Ethiopia  
 
 ---
