@@ -32,8 +32,8 @@ I'm a passionate **Penetration Tester** specializing in **Laravel, React, Vue, F
 
 ## 🌱 Currently Learning
 
-- Advanced Flutter animations
-- Progressive Web Apps (PWAs)
+- Malwer Analysis
+- EC Engineering
 - Serverless architecture
 
 ---
