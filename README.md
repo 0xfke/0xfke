@@ -54,10 +54,10 @@ I'm a passionate **Penetration Tester** specializing in **Laravel, React, Vue, F
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matewos-dingeta)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/matewos-dingeta)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://filanx.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matirezzone6@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://befikadutesfaye.netlify.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:befikadu2316@gmail.com)
 
 ---
 
