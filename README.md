@@ -40,15 +40,15 @@ I'm a passionate **Penetration Tester** specializing in **Laravel, React, Vue, F
 
 ## 📊 GitHub Stats
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-di&show_icons=true&theme=radical)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=fike-sh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-di&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fike-sh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Matt-di&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=fike-sh&theme=onedark)
 
 ---
 
