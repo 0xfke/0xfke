@@ -1,6 +1,6 @@
 # Hi there, I'm Befikadu! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/fike-sh?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/fike-sh?label=Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/fike-sh?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/fike-sh?label=Stars&style=social) <script src="https://tryhackme.com/badge/2498267"></script>
 
 ---
 
