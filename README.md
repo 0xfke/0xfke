@@ -4,86 +4,29 @@
 
 ---
 
-## 🚀 About Me
 
-I'm a passionate **Penetration Tester** specializing in **Laravel, React, Vue, Flutter, and Node.js**. I love crafting beautiful, efficient, and scalable web applications. You can find me indulging in playing games when I'm not coding.
-**Penetration Tester**, electrical and computer engineer, content creator, and innovator.
-🌍 Based in Ethiopia  
 
----
+# 💫 About Me:
+🔭 Currently Working On:<br>Building innovative cybersecurity solutions and enhancing my expertise in ethical hacking and penetration testing.<br><br>👯 Seeking Collaboration In:<br>Cybersecurity research, penetration testing projects, and content creation. I’m always interested in teaming up with like-minded professionals to share knowledge and develop impactful tools.<br><br>🤝 Looking for Assistance With:<br>Expanding reach and impact in the cybersecurity community and refining my approach to cybersecurity content creation.<br><br>🌱 Currently Learning:<br>Advanced techniques in cybersecurity, ethical hacking, and creating engaging educational content for the Ethiopian tech community.<br><br>💬 Ask Me About:<br>Ethical hacking, penetration testing, cybersecurity research, and insights on content creation within the cybersecurity field.<br><br>⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
 
-## 🔥 My Skills
 
-**Front-end**
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/befikadu-tesfaye) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xfke) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bunabyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xfke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bunabyte) 
 
-**Back-end**
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Mobile Development**
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-**Tools & Platforms**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-
-- Malwer Analysis
-- EC Engineering
-- Serverless architecture
-
----
-
-## 📊 GitHub Stats
-
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=fike-sh&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fike-sh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0xfke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xfke&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xfke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fike-sh&theme=onedark)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/matewos-dingeta)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=about-dot-me&logoColor=white)](https://befikadutesfaye.netlify.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:befikadu2316@gmail.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0xfke&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=0xfke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Web security](https://filanx.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎮 Hobbies & Interests
-
-- 🎨 Drawing and digital art
-- 📚 Reading sci-fi and fantasy novels
-- 🎮 Playing video games
-- 🌍 Traveling and exploring new cultures
-
----
-
-## 📅 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 30 mins ████████████▓░░░░░░░░░░░░   50.00 %
-Node.js      8 hrs 20 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
-Laravel      4 hrs 10 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Other        2 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   9.50 %
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
