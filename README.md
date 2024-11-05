@@ -1,7 +1,7 @@
 # Hi there, I'm Befikadu! 👋
-I'm an ethical hacker, cybersecurity researcher, content creator and electrical & computer engineering student from Ethiopia.
+I'm a cybersecurity researcher, content creator and electrical & computer engineering student from Ethiopia.
 # 💫 About Me:
-🔭 Currently Working On:<br>Building innovative cybersecurity solutions and enhancing my expertise in ethical hacking and penetration testing.<br>🌱 Currently Learning:<br>Advanced techniques in cybersecurity, ethical hacking, and creating engaging educational content for the Ethiopian tech community.<br><br>💬 Ask Me About:<br>Ethical hacking, penetration testing, cybersecurity research, and insights on content creation within the cybersecurity field.<br><br>⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
+🔭 Currently Working On:<br>Building innovative cybersecurity solutions and enhancing my expertise in ethical hacking and penetration testing.<br><br>🌱 Currently Learning:<br>Advanced techniques in cybersecurity, ethical hacking, and creating engaging educational content for the Ethiopian tech community.<br><br>⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
 
 
 ## 🌐 Socials:
