@@ -26,7 +26,7 @@ I'm a cybersecurity researcher, content creator and electrical & computer engine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
 [![Instagram](https://img.shields.io/badge/Instagram-BefikaduTesfaye-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfke)
 [![Telegram](https://img.shields.io/badge/Telegram-BunaByte-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hacker_habesha)
-[![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/bunabyte) 
+[![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
 
 ---
 ⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
