@@ -1,10 +1,8 @@
 # Hi there, I'm Befikadu! 👋
 I'm a cybersecurity researcher, content creator and electrical & computer engineering student from Ethiopia.
-<div style="text-align: center;">
- <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/images/banner.png" width="700" />
-</div>
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+ECE+Engineer+Ethical+Hacker+and+Cybersecurity+Researcher+for+a+Safer+Digital+World;)](https://git.io/typing-svg)
+
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Ethical+Hacker+and+Cybersecurity+Researcher+for+a+Safer+Digital+World;)](https://git.io/typing-svg)
 
 ---
 
