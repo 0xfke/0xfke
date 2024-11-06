@@ -14,7 +14,6 @@ I'm a cybersecurity researcher, content creator and electrical & computer engine
 
 - **Ethical Hacking**: Offensive Security, penetration testing, bug bounty hunting, CTF challenges
 - **Cybersecurity Research**: malware analysis, vulnerability assessment
-- **Software Development**: Python automation, scripting, web app security
 - **Machine Learning**: TensorFlow, Jupyterlabs, model training 
 - **Engineering Background**: Electrical & Computer Engineering
 ---
