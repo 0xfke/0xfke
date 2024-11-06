@@ -8,7 +8,7 @@ I'm a cybersecurity researcher, content creator and electrical & computer engine
 
 ## 0x00 <span style="color: #00FF40 !important;">&gt;</span> Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,git,kali,flask,js,html,css,mysql,canva,capcut,pr,tensorflow&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,c++,linux,bash,git,kali,flask,js,html,css,mysql,canva,capcut,pr,tensorflow&perline=8)](https://skillicons.dev)
 
 ---
 
