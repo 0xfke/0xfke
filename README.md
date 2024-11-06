@@ -19,15 +19,25 @@ I'm a cybersecurity researcher, content creator and electrical & computer engine
 
 ---
 
+<div style="text-align: center;">
+ <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/images/banner.png" width="700" />
+</div>
+
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Ethical+Hacker+and+Cybersecurity+Researcher+for+a+Safer+Digital+World;)](https://git.io/typing-svg)
+
+---
+
 ## 0x00 <span style="color: #00FF40 !important;">&gt;</span> Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,aws,azure,docker,bash,git,kali,nodejs,flask,js,html,css,mysql,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,aws,azure,docker,bash,git,kali,nodejs,flask,js,html,css,mysql,sqlite,canva,capcut,ae,ps,pr,tensorflow,keras&perline=8)](https://skillicons.dev)
 
 ---
 
 - **Ethical Hacking**: Offensive Security, penetration testing, bug bounty hunting, CTF challenges
 - **Cybersecurity Research**: Threat intelligence, malware analysis, incident response, vulnerability assessment
 - **Software Development**: Python automation, scripting, web app security, REST APIs
+- **Machine Learning**: TensorFlow, Keras, model training and evaluation, feature engineering
+- **Content Creation**: Adobe Premiere Pro, After Effects, Photoshop, Canva, CapCut for visual content and editing
 - **Engineering Background**: Electrical & Computer Engineering, system security, IoT security
 
 ---
@@ -36,3 +46,4 @@ I'm a cybersecurity researcher, content creator and electrical & computer engine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
 [![Telegram](https://img.shields.io/badge/Telegram-BunaByteAcademy-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOURCHANNEL)
 [![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/YOURCHANNEL)
+
