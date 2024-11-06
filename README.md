@@ -26,7 +26,7 @@ I'm a cybersecurity researcher, content creator and electrical & computer engine
 [![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
 
 ---
-⚡ ##### Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
----
+⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
+
 [![](https://visitcount.itsvg.in/api?id=0xfke&icon=0&color=0)](https://visitcount.itsvg.in)
 
