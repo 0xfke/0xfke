@@ -13,7 +13,8 @@
 - **Ethical Hacking**: Offensive Security, penetration testing, bug bounty hunting, CTF challenges
 - **Cybersecurity Research**: malware analysis, vulnerability assessment
 - **Machine Learning**: TensorFlow, Jupyterlabs, model training 
-- **Engineering Background**: Electrical & Computer Engineering
+- **Engineering Background**: Electrical & Computer Engineering Student
+- **Tech Content Creator**:
 ---
 
 
