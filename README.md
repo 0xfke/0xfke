@@ -26,11 +26,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
 
 ---
-### Badges<b>My GitHub Stats</b>
+## 0x02 My GitHub Stats
+
 <a href="http://www.github.com/0xfke"><img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xfke's GitHub stats" /></a><a href="http://www.github.com/0xfke">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xfke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/0xfke"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xfke&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
 ⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
