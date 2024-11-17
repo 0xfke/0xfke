@@ -6,7 +6,8 @@
 
 ## 0x00 <span style="color: #00FF40 !important;">&gt;</span> Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,kali,BurpSuite,flask,js,html,css,mysql,pr,tensorflow,jupyter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,kali,flask,js,html,css,mysql,pr,tensorflow,jupyter&perline=8)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
 
 ---
 
