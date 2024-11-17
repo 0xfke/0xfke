@@ -6,7 +6,7 @@
 
 ## 0x00 <span style="color: #00FF40 !important;">&gt;</span> Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,kali,powershell,flask,js,html,css,mysql,pr,tensorflow,sklearn,jupyter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,kali,powershell,flask,js,html,css,mysql,pr,tensorflow,sklearn,jupyter&theme=light)](https://skillicons.dev)
 
 
 ---
