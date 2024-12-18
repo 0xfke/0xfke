@@ -17,8 +17,6 @@
 - **Engineering Background**: Electrical & Computer Engineering Student
 - **Tech Content Creator**:
 ---
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style='border:none;' /></a>
-
 
 ## 0x01 <span style="color: #00FF40 !important;">&gt;</span> Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
