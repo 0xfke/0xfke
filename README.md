@@ -17,6 +17,7 @@
 - **Engineering Background**: Electrical & Computer Engineering Student
 - **Tech Content Creator**:
 ---
+![TryHackMe Badge]([https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267])
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style='border:none;'></iframe>
 
 ## 0x01 <span style="color: #00FF40 !important;">&gt;</span> Connect with me
