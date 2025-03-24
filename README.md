@@ -4,7 +4,7 @@
 
 ---
 
-##   <span style="color: #00FF40 !important;">&gt;</span> Skillset
+## Skillset
 ---
 
 - **Ethical Hacking**: Offensive Security, penetration testing, bug bounty hunting, CTF challenges
