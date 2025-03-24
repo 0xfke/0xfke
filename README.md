@@ -22,20 +22,6 @@
 
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 
-## 🏆 Achievements
-- **Rank**: TryHackMe Top 1%
-- **Badges Earned**: 15
-- **Rooms Completed**: 110+ 
-
-## 📊 Stats
-| Metric | Value |
-|--------|-------|
-| Rank | Top 1% |
-| Days Streak | 110+ |
-| Total Rooms Completed | 120 |
-
-[![View Full Profile](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
-
 ## My GitHub Stats
 
 <a href="http://www.github.com/0xfke"><img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xfke's GitHub stats" /></a><a href="http://www.github.com/0xfke">
