@@ -25,6 +25,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
 
 ---
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style='border:none;'></iframe>
 ## My GitHub Stats
 
 <a href="http://www.github.com/0xfke"><img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xfke's GitHub stats" /></a><a href="http://www.github.com/0xfke">
