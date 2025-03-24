@@ -26,7 +26,29 @@
 
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style='border:none;'></iframe>
+# TryHackMe Profile
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2498267.png)](https://tryhackme.com/p/2498267)
+
+## 🏆 Achievements
+- **Rank**: TryHackMe Top 1% (Based on your current ranking)
+- **Badges Earned**: 50+ (Update this number based on your actual count)
+- **Rooms Completed**: 100+ (Update this number based on your actual count)
+
+## 🔥 Recent Activity
+- Currently working on: [Room Name](https://tryhackme.com/room/roomname) (Update with your current room)
+- Recently completed: [Room Name](https://tryhackme.com/room/roomname) (Update with recent room)
+
+## 📊 Stats
+| Metric | Value |
+|--------|-------|
+| Rank | Top 1% |
+| Days Streak | [Your Streak] |
+| Total Rooms Completed | [Number] |
+| Learning Paths Completed | [Number] |
+
+[View Full Profile](https://tryhackme.com/p/2498267)
+
 ## My GitHub Stats
 
 <a href="http://www.github.com/0xfke"><img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xfke's GitHub stats" /></a><a href="http://www.github.com/0xfke">
