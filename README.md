@@ -11,7 +11,7 @@
 - **Cybersecurity Research**: malware analysis, vulnerability assessment
 - **Machine Learning**: TensorFlow, Jupyterlabs, model training 
 - **Engineering Background**: Electrical & Computer Engineering Student
-- **Tech Content Creator**: Buna Byte Cyebersecurity
+- **Tech Content Creator**: [Buna Byte Cyebersecurity](https://www.youtube.com/@BunaByte)
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,kali,powershell,flask,js,html,css,mysql,pr,tensorflow,sklearn,jupyter&perline=15)](https://skillicons.dev)
