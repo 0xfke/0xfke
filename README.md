@@ -31,7 +31,7 @@
 ---
 ## TryHackMe Profile
 
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 
 ---
 # Connect with me
