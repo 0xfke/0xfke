@@ -4,7 +4,7 @@
 
 ---
 
-## 0x00  <span style="color: #00FF40 !important;">&gt;</span> Skillset
+##   <span style="color: #00FF40 !important;">&gt;</span> Skillset
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,kali,powershell,flask,js,html,css,mysql,pr,tensorflow,sklearn,jupyter&perline=15)](https://skillicons.dev)
 
