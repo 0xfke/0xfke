@@ -13,6 +13,10 @@
 - **Engineering Background**: Electrical & Computer Engineering Student
 - **Tech Content Creator**: [Buna Byte Cyebersecurity](https://www.youtube.com/@BunaByte)
 
+#### TryHackMe Profile
+
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
+
 ---
 
 # My GitHub Stats
@@ -27,14 +31,7 @@
   
 </details>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=0xfke&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-## TryHackMe Profile
-
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
+[![Visitors](https://visitcount.itsvg.in/api?id=0xfke&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 # Connect with me
