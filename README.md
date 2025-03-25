@@ -31,9 +31,6 @@
   
 </details>
 
-
-<img src="https://komarev.com/ghpvc/?username=0xfke&style=flat-square&color=blue" alt="profile view">
-
 ---
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
