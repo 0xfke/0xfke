@@ -31,7 +31,8 @@
   
 </details>
 
-[![Visitors](https://visitcount.itsvg.in/api?id=0xfke&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://komarev.com/ghpvc/?username=0xfke&style=flat-square&color=blue" alt="profile view">
 
 ---
 # Connect with me
