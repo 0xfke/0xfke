@@ -12,9 +12,6 @@
 - **Machine Learning**: TensorFlow, Jupyterlabs, model training 
 - **Engineering Background**: Electrical & Computer Engineering Student
 - **Tech Content Creator**: [Buna Byte Cyebersecurity](https://www.youtube.com/@BunaByte)
----
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,kali,powershell,flask,js,html,css,mysql,pr,tensorflow,sklearn,jupyter&perline=15)](https://skillicons.dev)
 
 ---
 
@@ -31,7 +28,6 @@
 </details>
 
 ---
-⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
 
 [![](https://visitcount.itsvg.in/api?id=0xfke&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -46,3 +42,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-BefikaduTesfaye-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfke)
 [![Telegram](https://img.shields.io/badge/Telegram-BunaByte-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bunabytecs)
 [![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
+
+
+⚡ Fun Fact:<br>In addition to cybersecurity, I'm passionate about Ethiopian coffee (Buna). The name of my YouTube and Telegram channel, Buna Byte, is inspired by this love!
