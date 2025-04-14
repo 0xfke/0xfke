@@ -17,20 +17,6 @@
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 
 ---
-
-# My GitHub Stats
-**Expand to view**
-
-<details>
-  <summary><b>:zap: GitHub Profile Stats</b></summary>
-  <br>
-  
-  <a href="http://www.github.com/0xfke"><img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xfke's GitHub stats" /></a><a href="http://www.github.com/0xfke">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xfke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
-</details>
-
----
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
 [![Instagram](https://img.shields.io/badge/Instagram-BefikaduTesfaye-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfke)
