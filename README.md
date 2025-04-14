@@ -12,10 +12,6 @@
 - **Machine Learning**: TensorFlow, Jupyterlabs, model training 
 - **Tech Content Creator**: [Buna Byte Cyebersecurity](https://www.youtube.com/@BunaByte)
 
-#### TryHackMe Profile
-
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
-
 ---
 
 ## 📊 GitHub Stats
@@ -31,6 +27,12 @@
   <img src="https://img.shields.io/github/repo-size/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning" alt="Repo size"/>
   <img src="https://img.shields.io/github/forks/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning?style=social" alt="Forks"/>
 </p>
+
+---.
+
+#### TryHackMe Profile
+
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 
 ---
 # Connect with me
