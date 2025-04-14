@@ -1,4 +1,4 @@
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Hi+there,+I'm+Befikadu!+👋+a+Cybersecurity+Enthusiast;)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Hi+there,+I'm+Befikadu!+👋+a+Cybersecurity+Researcher;)](https://git.io/typing-svg)
 
 
 
@@ -15,6 +15,22 @@
 #### TryHackMe Profile
 
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
+</p>
+
+<p align="center">
+  <!-- Dynamic repo count -->
+  <img src="https://img.shields.io/github/followers/0xfke?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/0xfke?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning" alt="Repo size"/>
+  <img src="https://img.shields.io/github/forks/0xfke/Malware-Detection-and-Analysis-using-Machine-LearningAASTU-CSC/CTF-Walkthrough?style=social" alt="Forks"/>
+</p>
 
 ---
 # Connect with me
