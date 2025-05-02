@@ -14,6 +14,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xfke&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
+</p>
+
+<p align="center">
+  <!-- Dynamic repo count -->
+  <img src="https://img.shields.io/github/followers/0xfke?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/0xfke?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning" alt="Repo size"/>
+  <img src="https://img.shields.io/github/forks/0xfke?style=social" alt="Forks"/>
+</p>
+
+---
+
 # Connect with me
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
