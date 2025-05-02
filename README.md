@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/github/followers/0xfke?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/0xfke?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/repo-size/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning" alt="Repo size"/>
-  <img src="https://img.shields.io/github/forks/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/forks/0xfke?style=social" alt="Forks"/>
 </p>
 
 ---
