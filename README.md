@@ -13,7 +13,30 @@
 - **Tech Content Creator**: [Buna Byte Cyebersecurity](https://www.youtube.com/@BunaByte)
 
 ---
+<!-- Projects -->
+<div align="right" style="border: 2px solid #87CEEB; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
+  <p align="right" style="display: flex; align-items: center;">
+    <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/cHJvamVjdHM=/karasha.png" width="100" alt="projects">
+  </p>
+
+
+<p align="right">
+<a href="https://github.com/0xfke/dotfiles.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfke&repo=dotfiles&theme=dark&title_color=87CEEB&icon_color=87CEEB&text_color=87CEEB&bg_color=1e1e1e"/></a>
+<a href="https://github.com/haxurn/pentest-toolkit.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfke&repo=pentest-toolkit&theme=dark&title_color=87CEEB&icon_color=87CEEB&text_color=87CEEB&bg_color=1e1e1e"/></a>
+</p>
+
+</div>
+
+
+<br>
+<br>
+<br>
+
+
+<div style="border: 2px solid #87CEEB; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+---
+  
 # Connect with me
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
