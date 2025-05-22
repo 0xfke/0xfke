@@ -22,6 +22,7 @@ I'm a **self-taught cybersecurity researcher, developer, penetration tester, and
 - Secure Software Development
 - Ethical Hacking & Red Teaming
 - Open Source Security Contributions
+- Machine Learning for Cybersecurity
 
 ---
 
