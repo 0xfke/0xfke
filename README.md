@@ -4,13 +4,24 @@
 
 ---
 
-# Skillset
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacker-informational?style=flat&logo=security&color=blue)
+![Self-Taught](https://img.shields.io/badge/Self--Taught-Learner-success?style=flat&logo=leanpub)
+![Passionate](https://img.shields.io/badge/Passionate%20About-Security%20%26%20Innovation-orange)
 
+## 👨‍💻 About Me
 
-- **Ethical Hacking**: Offensive Security, penetration testing, bug bounty hunting, CTF challenges
-- **Cybersecurity Research**: malware analysis, vulnerability assessment
-- **Machine Learning**: TensorFlow, Jupyterlabs, model training 
-- **Tech Content Creator**: [Buna Byte Cyebersecurity](https://www.youtube.com/@BunaByte)
+I'm a **self-taught cybersecurity researcher, developer, penetration tester, and ethical hacker** with a strong passion for security and innovation. I thrive on exploring cybersecurity challenges, breaking things ethically to make them safe, and sharing knowledge with others.
+
+- 🔍 Love to explore vulnerabilities and strengthen security
+- 🤝 Advocate for sharing knowledge and building a safer tech world
+- 💡 Always learning, always innovating
+
+## 🛡️ What I Do
+
+- Penetration Testing & Vulnerability Research
+- Secure Software Development
+- Ethical Hacking & Red Teaming
+- Open Source Security Contributions
 
 ---
 
