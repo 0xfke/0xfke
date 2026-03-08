@@ -1,6 +1,7 @@
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Hi+there,+I'm+Befikadu!+👋+a+Cybersecurity+Researcher;)](https://git.io/typing-svg)
 
 
+[![Profile views](https://komarev.com/ghpvc/?username=0xfke&color=0e75b6)](https://github.com/0xfke)
 
 ---
 
